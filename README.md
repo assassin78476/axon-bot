@@ -23,7 +23,6 @@ Only 2 step is requires to set this bot!
 
 # That all 
 
-Enjoy the code to its fullest Preovided By CodeX Developement!
 
 <3
 
