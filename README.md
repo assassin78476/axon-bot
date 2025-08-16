@@ -32,8 +32,4 @@ Emoji Server 2: https://discord.gg/nWazB7eqBH
 Note: I am not the owner of the emoji servers
 
 
-<3
 
-> Main Credits goes to Olympus bot Thanks for this wonderful code and journey!
-
-https://github.com/sonujana26/olympus-bot/blob/main/LICENSE.txt
