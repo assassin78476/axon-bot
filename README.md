@@ -23,9 +23,17 @@ Only 2 step is requires to set this bot!
 
 # That all 
 
+Links of the emoji servers:
+
+Emoji Server 1: https://discord.gg/sAFkY2Rr2n
+
+Emoji Server 2: https://discord.gg/nWazB7eqBH
+
+Note: I am not the owner of the emoji servers
+
 
 <3
 
-> Main Creds goes to Olympus bot Thanks for this wonderful code and journey!
+> Main Credits goes to Olympus bot Thanks for this wonderful code and journey!
 
 https://github.com/sonujana26/olympus-bot/blob/main/LICENSE.txt
